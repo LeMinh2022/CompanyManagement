@@ -1,0 +1,804 @@
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T03:55:58.240Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T04:02:26.634Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T04:03:19.195Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:32.627Z'
+}
+{
+  message: 'Error: "addressLine2" length must be at least 10 characters long',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:41.734Z'
+}
+{
+  message: 'Error: "saleRapEmployeeNumber" is not allowed',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:46.857Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:16:24.718Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:20:13.124Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:20:22.028Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:22:39.451Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:23:25.513Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:23:25.766Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:25:09.108Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:42:21.119Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:45:16.161Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:47:45.102Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:49:21.244Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:50:10.878Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:50:49.124Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:51:10.361Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:51:57.372Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:52:21.538Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:55:36.265Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:56:45.002Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:57:29.915Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:01:49.273Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:00.407Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:15.220Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:25.939Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:03:24.558Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:18.396Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:33.310Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:45.178Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:05:08.233Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:05:47.234Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:06:06.012Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:06:28.771Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:07:02.782Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:07:19.036Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:22:11.958Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:22:25.777Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:24:26.056Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:25:41.688Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:26:02.631Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:27:01.155Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:28:20.484Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:28:51.214Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:32:24.251Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:33:45.553Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:34:44.977Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:35:04.467Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:35:24.828Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:39:35.796Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:39:55.126Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:18.620Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:29.291Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:48.003Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:41:21.183Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:41:40.846Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:42:00.728Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:56:25.905Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:57:18.629Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:57:43.416Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:58:26.663Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:58:58.453Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:59:23.057Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:59:36.454Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:01.100Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:26.016Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:45.436Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:56.530Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:03:24.233Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:04:18.456Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:13:36.106Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:14:20.412Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:17:56.079Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:23:22.858Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:26:28.085Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:26:46.564Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:28:12.657Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:29:57.757Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:30:52.976Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:32:00.759Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:33:58.508Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:34:10.069Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:35:27.615Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:36:55.233Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:38:50.177Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:39:51.916Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:41:35.368Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:48:04.318Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:11:39.890Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:22:05.189Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:23:19.272Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:24:34.262Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:27:09.932Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:31:29.794Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:51:08.960Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:52:07.364Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:54:22.276Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:54:34.041Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:55:38.802Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:56:56.328Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:04:56.738Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:07:09.753Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:07:39.806Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:08:13.219Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:08:45.586Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:09:50.218Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:10:28.438Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:47:35.720Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:48:11.524Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:49:04.228Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:53:58.987Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:58:20.178Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:59:03.701Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:59:16.558Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:02:01.720Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:04:11.996Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:07:14.028Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:07:18.064Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:09:39.420Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:10:52.610Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:12:03.723Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:12:44.990Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:13:30.240Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:10:20.112Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:18:14.640Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:00.319Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:09.686Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:59.866Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:38:53.712Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:41:02.817Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:43:58.782Z'
+}

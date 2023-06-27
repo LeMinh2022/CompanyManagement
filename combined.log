@@ -1,0 +1,6948 @@
+{
+  message: 'login successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:14:23.834Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:15:20.830Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:16:20.194Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:16:31.960Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:16:36.530Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:17:30.600Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:21:32.078Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:21:50.724Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:21:54.769Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:22:07.360Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:22:11.879Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:43:01.483Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:43:59.047Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:44:00.341Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:46:59.155Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:47:20.183Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:48:37.532Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:50:24.245Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: 'managerTest',
+  level: 'info',
+  timestamp: '2023-06-12T03:51:54.778Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T03:55:58.240Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T04:02:26.634Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'managerTest',
+  level: 'error',
+  timestamp: '2023-06-12T04:03:19.195Z'
+}
+{
+  message: 'login successfully',
+  userName: 'staff test',
+  level: 'info',
+  timestamp: '2023-06-12T04:05:23.717Z'
+}
+{
+  message: 'Error: "addressLine2" is not allowed to be empty',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:32.627Z'
+}
+{
+  message: 'Error: "addressLine2" length must be at least 10 characters long',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:41.734Z'
+}
+{
+  message: 'Error: "saleRapEmployeeNumber" is not allowed',
+  userName: 'staff test',
+  level: 'error',
+  timestamp: '2023-06-12T04:05:46.857Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:16:24.718Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:20:13.124Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:20:22.028Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:22:39.451Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:23:25.513Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:23:25.766Z'
+}
+{
+  message: 'Error: User not found',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-19T04:25:09.108Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:08:34.918Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:13:22.278Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:27:35.341Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:28:08.900Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:29:34.271Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:30:00.510Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:30:38.766Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:30:52.673Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:31:30.595Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:32:07.310Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:32:31.487Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:33:15.393Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:34:18.932Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:35:47.056Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:39:32.923Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:40:58.344Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:41:51.159Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:43:01.815Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T03:45:13.906Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T05:57:15.648Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T05:59:20.991Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:01:02.755Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:02:54.097Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:03:26.095Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:04:10.095Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:04:56.758Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:05:57.344Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:06:35.304Z'
+}
+{
+  message: 'registered successfully',
+  userName: 'testuser',
+  level: 'info',
+  timestamp: '2023-06-20T06:08:41.941Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T09:58:47.943Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T09:59:05.058Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T09:59:36.065Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:00:30.836Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:02:08.959Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:03:32.313Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:07:25.828Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:08:09.185Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:10:17.974Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:11:02.617Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:12:56.210Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:13:28.255Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:13:38.486Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:13:57.586Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:14:38.532Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-20T10:15:01.421Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:11:57.103Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:16:09.870Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:17:00.190Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:17:13.960Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:17:40.120Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:17:54.229Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:22:45.355Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:24:09.144Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:25:06.843Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:25:46.237Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:26:03.457Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:28:45.151Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:29:11.567Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:29:43.418Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:31:54.315Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:33:08.325Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:33:08.332Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:35:01.912Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:35:01.921Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:36:15.697Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:36:15.706Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:36:53.351Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:36:53.360Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:37:04.582Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:37:04.594Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:37:45.225Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:37:45.232Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:38:05.303Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:38:05.311Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:38:40.414Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:38:40.423Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:01.652Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:01.661Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:25.367Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:25.375Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:36.051Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:39:36.059Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:40:06.503Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:40:06.511Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:40:47.613Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:40:47.621Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:41:40.394Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:41:40.401Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:41:53.033Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:41:53.041Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:42:21.108Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:42:21.116Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:42:21.119Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:45:16.152Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:45:16.159Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:45:16.161Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:47:45.090Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:47:45.098Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:47:45.102Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:49:21.234Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:49:21.241Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:49:21.244Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:50:10.868Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:50:10.876Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:50:10.878Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:50:49.113Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:50:49.121Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:50:49.124Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:51:10.344Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:51:10.357Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:51:10.361Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:51:57.350Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:51:57.362Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:51:57.372Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:52:21.525Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:52:21.534Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:52:21.538Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:55:36.252Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:55:36.261Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:55:36.265Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:56:44.989Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:56:44.998Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:56:45.002Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:57:29.901Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T02:57:29.910Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T02:57:29.915Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:01:49.255Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:01:49.270Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:01:49.273Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:00.397Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:00.404Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:00.407Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:15.210Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:15.217Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:15.220Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:25.923Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:02:25.933Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:02:25.939Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:03:24.547Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:03:24.555Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:03:24.558Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:18.386Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:18.393Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:18.396Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:33.299Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:33.307Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:33.310Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:45.166Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:04:45.175Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:04:45.178Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:08.223Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:08.231Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:05:08.233Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:08.236Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:47.224Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:47.231Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:05:47.234Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:05:47.237Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:06.000Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:06.009Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:06:06.012Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:06.014Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:28.761Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:28.768Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:06:28.771Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:06:28.774Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:02.772Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:02.779Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:07:02.782Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:02.784Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:19.026Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:19.033Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:07:19.036Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:07:19.038Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:11.948Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:11.955Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:22:11.958Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:11.961Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:25.767Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:25.774Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:22:25.777Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:22:25.779Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:24:26.047Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:24:26.054Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:24:26.056Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:24:26.059Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:25:41.678Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:25:41.685Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:25:41.688Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:25:41.690Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:26:02.617Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:26:02.626Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:26:02.631Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:26:02.634Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:27:01.145Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:27:01.152Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:27:01.155Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:27:01.158Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:20.473Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:20.481Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:28:20.484Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:20.486Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:51.203Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:51.211Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:28:51.214Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:28:51.216Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:32:24.241Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:32:24.248Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:32:24.251Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:32:24.253Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:32:24.256Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:33:45.544Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:33:45.551Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:33:45.553Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:33:45.556Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:33:45.559Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:34:44.967Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:34:44.974Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:34:44.977Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:34:44.979Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:34:44.981Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:04.457Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:04.464Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:35:04.467Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:04.469Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:04.472Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:24.817Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:24.825Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:35:24.828Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:24.830Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:35:24.833Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:35.786Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:35.794Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:39:35.796Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:35.799Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:35.802Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:55.115Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:55.122Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:39:55.126Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:55.128Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:39:55.130Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:18.609Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:18.617Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:18.620Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:18.622Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:18.625Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:29.281Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:29.288Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:29.291Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:29.294Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:29.296Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:47.993Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:48.000Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:40:48.003Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:48.005Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:40:48.008Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:21.173Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:21.180Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:41:21.183Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:21.185Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:21.187Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:40.836Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:40.843Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:41:40.846Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:40.848Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:41:40.851Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:42:00.718Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:42:00.725Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:42:00.728Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:42:00.730Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:42:00.733Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:56:25.894Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:56:25.902Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:56:25.905Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:56:25.907Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:56:25.910Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:18.619Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:18.626Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:57:18.629Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:18.631Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:18.634Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:43.405Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:43.413Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:57:43.416Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:43.418Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:43.420Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:57:43.424Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:26.653Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:26.660Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:58:26.663Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:26.665Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:26.668Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:26.671Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:58.425Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:58.440Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:58:58.453Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:58.458Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:58.465Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:58:58.470Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:23.048Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:23.055Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:59:23.057Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:23.060Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:23.062Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:23.066Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:36.442Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:36.451Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T03:59:36.454Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:36.456Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:36.459Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T03:59:36.463Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:01.090Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:01.097Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:01.100Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:01.102Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:01.106Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:01.110Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:26.005Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:26.014Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:26.016Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:26.018Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:26.020Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:26.024Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:45.424Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:45.433Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:45.436Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:45.438Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:45.441Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:45.444Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:56.514Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:56.525Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T06:57:56.530Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:56.532Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:56.535Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T06:57:56.539Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.216Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.223Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.227Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.231Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:03:24.233Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.235Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.237Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:03:24.241Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.439Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.445Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.450Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.454Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:04:18.456Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.458Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.460Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:04:18.464Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.089Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.096Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.100Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.104Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:13:36.106Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.108Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.111Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:13:36.121Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.394Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.401Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.407Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.410Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:14:20.412Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.414Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.416Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:14:20.419Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.056Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.066Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.071Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.076Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:17:56.079Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.081Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.084Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:17:56.088Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.841Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.848Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.853Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.856Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:23:22.858Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.860Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.862Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:23:22.865Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.069Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.076Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.080Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.083Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:26:28.085Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.087Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.089Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:28.092Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.548Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.554Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.559Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.563Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:26:46.564Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.566Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.568Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:26:46.570Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.640Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.647Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.651Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.654Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:28:12.657Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.658Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.660Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:28:12.664Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.732Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.743Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.748Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.754Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:29:57.757Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.758Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.760Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:29:57.763Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.959Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.966Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.970Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.974Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:30:52.976Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.977Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.979Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:30:52.982Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.743Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.749Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.752Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.757Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:32:00.759Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.760Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.762Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:00.765Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:32:41.768Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.491Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.498Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.502Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.505Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:33:58.508Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.509Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.511Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:33:58.514Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:08.666Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:10.051Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:10.063Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:34:10.069Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:10.072Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:10.079Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:10.085Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:34:47.250Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:19.251Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:27.599Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:27.611Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:35:27.615Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:27.619Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:27.623Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:35:27.631Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:02.278Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:53.645Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:55.220Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:55.229Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:36:55.233Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:55.237Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:55.242Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:36:55.249Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.160Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.165Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.167Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.171Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.175Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:38:50.177Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.178Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.180Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:38:50.183Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.896Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.902Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.905Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.910Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.914Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:39:51.916Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.917Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.919Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:39:51.925Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.350Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.356Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.358Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.362Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.366Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:41:35.368Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.370Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.373Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:41:35.375Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.301Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.307Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.308Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.313Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.316Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T07:48:04.318Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.320Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.322Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T07:48:04.325Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.872Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.877Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.879Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.884Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.888Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:11:39.890Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.892Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.894Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:11:39.897Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.172Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.178Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.179Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.184Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.187Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:22:05.189Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.191Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.193Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:22:05.195Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.255Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.261Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.262Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.266Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.270Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:23:19.272Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.274Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.276Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:23:19.279Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.245Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.251Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.253Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.257Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.260Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:24:34.262Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.264Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.266Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:24:34.270Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.914Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.921Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.922Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.926Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.929Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:27:09.932Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.933Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.936Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:27:09.938Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.777Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.783Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.784Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.788Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.792Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:31:29.794Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.796Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.798Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:31:29.801Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.940Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.946Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.947Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.954Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.958Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:51:08.960Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.961Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.964Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:51:08.966Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.335Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.343Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.346Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.351Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.356Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.360Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.363Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:52:07.364Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.365Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.368Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:52:07.370Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.237Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.247Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.250Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.260Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.264Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.270Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.274Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:54:22.276Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.279Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.281Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:22.283Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.018Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.024Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.026Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.029Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.033Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.037Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.040Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:54:34.041Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.043Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.046Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:54:34.048Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.780Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.785Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.787Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.790Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.795Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.798Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.800Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:55:38.802Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.803Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.806Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:55:38.808Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.306Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.311Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.313Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.316Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.320Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.324Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.326Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T08:56:56.328Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.329Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.331Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T08:56:56.333Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.705Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.711Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.712Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.715Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.720Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.727Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.734Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:04:56.738Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.739Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.745Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:04:56.753Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.718Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.725Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.728Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.735Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.740Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.744Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.746Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.749Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.751Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:07:09.753Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.754Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.756Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:09.758Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.778Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.785Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.786Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.788Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.793Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.797Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.799Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.802Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.804Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:07:39.806Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.807Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.809Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:07:39.812Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.190Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.196Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.198Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.201Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.205Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.209Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.210Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.214Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.217Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:08:13.219Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.220Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.222Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:13.225Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.557Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.563Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.565Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.568Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.572Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.576Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.578Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.582Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.585Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:08:45.586Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.587Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.589Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:08:45.592Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.189Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.194Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.196Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.200Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.204Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.208Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.210Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.213Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.216Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:09:50.218Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.219Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.221Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:09:50.224Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.410Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.416Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.418Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.421Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.425Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.429Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.430Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.434Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.436Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:10:28.438Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.439Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.441Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:10:28.443Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.681Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.687Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.689Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.692Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.696Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.701Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.703Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.705Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.706Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.707Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.716Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.718Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:47:35.720Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.721Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.722Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:47:35.724Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.488Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.494Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.495Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.498Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.503Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.507Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.509Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.511Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.512Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.513Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.520Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.522Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:48:11.524Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.525Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.527Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:48:11.529Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.192Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.197Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.199Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.202Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.206Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.210Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.212Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.214Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.215Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.217Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.225Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.227Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:49:04.228Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.229Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.231Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:49:04.233Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.945Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.951Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.953Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.956Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.960Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.965Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.967Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.969Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.969Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.971Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.977Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.980Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.984Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.986Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:53:58.987Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.988Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.989Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:53:58.991Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:56:47.529Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:56:47.537Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:56:47.544Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:57:32.614Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:17.445Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.121Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.128Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.135Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.137Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.141Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.158Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.163Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.171Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.175Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:58:20.178Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.180Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.183Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:20.187Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:50.368Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:50.375Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:50.376Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:58:59.429Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:02.160Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.648Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.655Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.661Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.664Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.667Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.682Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.687Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.694Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.698Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:59:03.701Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.703Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.706Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:03.710Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.510Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.516Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.518Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.521Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.525Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.531Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.533Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.535Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.536Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.537Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.545Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.547Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.554Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.556Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T09:59:16.558Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.558Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.572Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:16.598Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:45.602Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:45.610Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T09:59:45.613Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:00:40.235Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:01:59.135Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.664Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.674Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.680Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.682Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.685Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.700Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.704Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.712Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.715Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:02:01.720Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.721Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.725Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:01.729Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:26.946Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:26.953Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:02:26.955Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:09.490Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.936Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.947Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.952Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.956Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.958Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.975Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.980Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.988Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.992Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:04:11.996Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:11.998Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:12.001Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:12.005Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:29.831Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:29.838Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:04:29.844Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.973Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.981Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.990Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.992Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.994Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:13.995Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.007Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.012Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.022Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.025Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:07:14.028Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.030Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.033Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:14.037Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.026Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.032Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.033Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.037Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.042Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.044Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.046Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.047Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.048Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.055Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.057Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.061Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.063Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:07:18.064Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.065Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.067Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:07:18.069Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.381Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.387Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.389Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.394Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.398Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.400Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.401Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.403Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.403Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.411Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.413Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.417Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.419Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:09:39.420Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.421Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.424Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:09:39.426Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.570Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.576Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.578Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.581Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.586Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.589Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.591Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.592Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.593Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.600Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.602Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.606Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.609Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:10:52.610Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.611Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.612Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:10:52.614Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.663Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.669Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.671Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.675Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.680Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.682Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.684Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.686Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.687Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.702Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.711Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.718Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.721Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:12:03.723Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.725Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.728Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:03.731Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.950Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.956Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.957Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.961Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.966Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.968Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.971Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.972Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.973Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.980Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.982Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.986Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.988Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:12:44.990Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.991Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.992Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:12:44.994Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.199Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.205Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.206Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.209Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.211Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.216Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.218Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.221Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.222Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.223Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.230Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.232Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.236Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.238Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T10:13:30.240Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.240Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.242Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T10:13:30.244Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.070Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.076Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.077Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.081Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.083Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.089Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.091Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.093Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.094Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.095Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.102Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.105Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.109Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.111Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:10:20.112Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.113Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.114Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:10:20.116Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:07.293Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:07.300Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:07.303Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:35.002Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:36.900Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:44.221Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:44.228Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:44.233Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:44.236Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:16:44.238Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:17:06.517Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:17:11.977Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:18:14.631Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:18:14.636Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:18:14.640Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:18:14.642Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:18:14.646Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:18:14.652Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:36:57.838Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:36:57.846Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:36:57.849Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.277Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.279Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.284Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.286Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.288Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.290Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.291Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.299Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.301Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.315Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.317Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:00.319Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.320Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.322Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:00.324Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.625Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.630Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.631Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.635Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.637Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.642Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.643Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.646Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.646Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.648Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.656Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.663Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.678Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.683Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:09.686Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.687Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.689Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:09.695Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.827Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.832Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.834Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.838Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.840Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.844Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.846Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.848Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.849Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.850Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.857Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.859Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.863Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.865Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:37:59.866Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.867Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.869Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:37:59.871Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.674Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.679Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.680Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.683Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.686Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.690Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.692Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.694Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.695Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.696Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.704Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.706Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.709Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.711Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:38:53.712Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.713Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.715Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:38:53.717Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.777Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.782Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.784Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.787Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.789Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.794Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.796Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.798Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.799Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.801Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.808Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.810Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.814Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.816Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:41:02.817Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.818Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.820Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:41:02.822Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.744Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.750Z'
+}
+{
+  message: 'get all customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.751Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.754Z'
+}
+{
+  message: 'create new customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.756Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.761Z'
+}
+{
+  message: 'get customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.763Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.765Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.766Z'
+}
+{
+  message: 'Update customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.769Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.773Z'
+}
+{
+  message: 'delete customer infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.775Z'
+}
+{
+  message: 'get all employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.779Z'
+}
+{
+  message: 'create new employees  successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.781Z'
+}
+{
+  message: 'Error creating employee: Database error',
+  userName: undefined,
+  level: 'error',
+  timestamp: '2023-06-21T13:43:58.782Z'
+}
+{
+  message: 'get employees infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.783Z'
+}
+{
+  message: 'update employee infor successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.785Z'
+}
+{
+  message: 'delete employee successfully',
+  userName: undefined,
+  level: 'info',
+  timestamp: '2023-06-21T13:43:58.787Z'
+}
